@@ -1,8 +1,7 @@
 ## 演示片
 
-<div style="text-align: center; margin-top: 20px;">  
-    https://github.com/nextisme/PvZ-hybrid-version/assets/119846748/4017a1d7-0680-4117-af60-8dc4aaefeab1
-</div>
+https://github.com/nextisme/PvZ-hybrid-version/assets/119846748/4017a1d7-0680-4117-af60-8dc4aaefeab1
+
 
 ## 此项目包含
 - 潜艇伟伟迷大佬制作的植物大战僵尸杂交版<font color=#008000 >手机 & pc端</font>
