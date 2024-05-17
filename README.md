@@ -1,9 +1,8 @@
 ## 演示片
 
 <div style="text-align: center; margin-top: 20px;">  
-    <video id="video" controls autoplay poster="封面.jpg" width="100%">  
-        <source src="PvZ.mp4" type="video/mp4">  
-        您的浏览器不支持Video标签。  
+    <video id="video" controls autoplay poster="封面.jpg" width="600">  
+        <source src="https://mp4.ziyuan.wang/view.php/40ce930ca8b07b719c413d26817e632e.mp4" type="video/mp4">
     </video>  
 </div>
 
