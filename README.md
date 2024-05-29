@@ -1,9 +1,9 @@
-## 游戏主体在右边Releases中
-## 小项目下载地址(蓝奏云)
-- https://wwd.lanzn.com/b00eer4vah
+## 游戏安装程序在右边Releases中
+## 小项目下载地址(蓝奏云盘)
+https://wwd.lanzn.com/b00eer4vah
 密码:2dmt
-## 小项目包含
 
+**包含**
 - 高清修补工具
 - 完美存档
 - 修改器
