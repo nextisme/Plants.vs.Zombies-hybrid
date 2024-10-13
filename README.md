@@ -9,6 +9,3 @@
 - 修改器
 - 完美存档
 - 窗口放大工具
-  
-## 演示片
-https://github.com/nextisme/PvZ-hybrid-version/assets/119846748/4017a1d7-0680-4117-af60-8dc4aaefeab1
