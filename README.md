@@ -3,6 +3,10 @@
 
 https://github.com/nextisme/Plants.vs.Zombies-hybrid/releases/tag/ShootingEdition
 
+英语版本(English version)
+
+https://github.com/nextisme/Plants.vs.Zombies-hybrid/releases/tag/PvZ-hybrid-English-2.0.88
+
 **项目包含**
 - 3d加速器
 - 杂交版2.3指南官方(很详细，有问题基本这里都可以解决)
