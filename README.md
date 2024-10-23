@@ -1,6 +1,8 @@
 ## 游戏压缩包在右边Releases中，方便下载
 射击版在新分支中(Shooting version in new branch)
 
+https://github.com/nextisme/Plants.vs.Zombies-hybrid/releases/tag/ShootingEdition
+
 **项目包含**
 - 3d加速器
 - 杂交版2.3指南官方(很详细，有问题基本这里都可以解决)
